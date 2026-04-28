@@ -1,0 +1,2 @@
+Livro A;Autor 1;Ficção;30
+Livro B;Autor 2;Técnico;50
